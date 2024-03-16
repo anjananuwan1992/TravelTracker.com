@@ -1,0 +1,603 @@
+.bg-img{
+    width: 100vw;
+    height: 75vh;
+    object-fit: cover;
+    filter: brightness(0.7);
+    box-shadow: 0px 5px rgb(0, 0, 0, 0.15);
+
+}
+
+body {
+    background-color: #e7dbdbfc;
+    
+}
+
+.inforsection2{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 19px;
+    color: #8D8D8D;
+    text-align: center;
+    padding: 30px;
+}
+
+.gradiantsec{
+    font-family: "Josefin Sans", sans-serif;
+    color: #F5F5F5;
+    text-align: justify;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.inforsection{
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-stretch: 100%;
+    font-variation-settings: normal;
+    font-feature-settings: normal;
+    text-transform: none;
+    text-decoration: none solid rgb(168, 168, 168);
+    text-align: center;
+    text-indent: 0px;
+    color: #A8A8A8;
+    font-family: "Playfair Display", Helvetica, Arial, sans-serif;
+    font-size: 38px;
+}
+
+
+
+.dropdown-menu2{
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.dropdown-menu3{
+    background-color: rgb(27, 22, 22) !important;
+}
+
+.navbar-nav{
+    margin-left: 70px;
+    font-family: "Josefin Sans", sans-serif;
+}
+.sign{
+   
+    border-radius: 5px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.dropdown-item2{
+    color: white;
+    font-size: 18px;
+}
+
+.dropdown-item2:hover{
+    color: rgba(255, 255, 255, 0.716) !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.navbar{
+    padding-left: 50px;
+    padding-right: 50px;
+    transition: all 0.5s;
+}
+
+.navbar-scrolled{
+    background-color: rgb(27, 22, 22);
+    box-shadow: 0 3px 10px rgb(0, 0, 0, 0.15);
+}
+
+.nav-link{
+    font-family: "Josefin Sans", sans-serif;
+    color: white !important;
+    font-size: 20px;
+}
+
+.nav-link:hover{
+    color: rgba(255, 255, 255, 0.716) !important;
+}
+
+.nav-link:active{
+    color: rgba(255, 255, 255, 0.716) !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.nav-item {
+    margin-right: 20px;
+}
+
+.cover-text h1{
+    font-family: "Playfair Display", Helvetica, Arial, sans-serif;
+    color: aliceblue;
+    margin-top: 30px;
+    font-size: 52px;
+    
+}
+
+.cover-text h5{
+    font-family: "Josefin Sans", sans-serif;
+    color: aliceblue;
+    font-size: 24px;
+    
+}
+
+
+
+.trip-plan-form{
+    font-family: "Josefin Sans", sans-serif;
+    padding: 40px;
+    background-color: rgb(246, 246, 238);
+
+}
+
+.hidden-input {
+    visibility: hidden;
+
+}
+
+.hero-sec{
+   padding-top: 150px;
+   padding-bottom: 100px;
+   
+}
+
+
+
+
+.dynamic-div {
+    width: 100%;
+    height: 200px;
+    background-color: rgba(189, 207, 212, 0.582);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.mainbucket{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(189, 207, 212, 0.582);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+
+.sec2 {
+    margin-top: 10px;
+}
+
+.reg-form{
+    margin-top: 80px;
+}
+
+.loginborder{
+    padding: 20px;
+    font-family: "Josefin Sans", sans-serif;
+    color: aliceblue;
+    background-color: #1414148d;
+}
+
+.loginborder a{
+    color: aliceblue;
+}
+
+.con-1{
+    margin-top: 100px;
+    
+}
+
+.loginimg{
+    background-image: url('/images/rotti.jpg');
+    background-size: cover;
+}
+
+.signuppic{
+    background-image: url('/images/bsea.jpg');
+    background-size: cover;
+}
+
+.regimg{
+    background-image: url('/images/regimg.jpg');
+    background-size: cover;
+}
+
+.homeimg{
+    background-image: url('/images/nine2.jpg');
+    background-size: cover;
+    
+}
+
+.infomsg{
+    color: rgb(130, 202, 130);
+    font-size: 12px;
+}
+
+.buttonnext{
+    color: white;
+    text-decoration: none;
+}
+
+.buttonnext:hover{
+    color: white;
+
+}
+
+.contprof{
+    margin-top: 50px;
+}
+
+.dashtitle{
+    margin-top: 30px;
+    font-family: "Josefin Sans", sans-serif;
+     
+}
+
+.dashtitle h1{
+    font-family: "Playfair Display", Helvetica, Arial, sans-serif;
+}
+
+.pacbox{
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.businessmap{
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: grey;
+    border-radius: 5px;
+}
+
+.introtext{
+    text-align: justify;
+}
+
+.packageform{
+    padding: 30px;
+    background-color: #14141491;
+}
+
+.packageformdiv{
+    color: #F5F5F5;
+}
+
+.packageform3{
+    margin-top: 150px;
+    padding: 30px;
+    background-color: #14141491;
+    font-family: "Josefin Sans", sans-serif;
+    color: #F5F5F5;
+}
+
+
+.packageform2{
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.pacdetails{
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+.packbtn{
+    margin-right: -80px;
+}
+
+.pac{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.pacdiv{
+    background-color: rgba(128, 128, 128, 0.152);
+}
+
+.pacdivtitle{
+    margin-left: 110px;
+    margin-bottom: 20px;
+}
+
+.pacim{
+    border-radius: 10px;
+}
+
+.crop-image {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.updatebtn{
+    margin-right: -30px;   
+}
+
+.editform{
+    margin-top: 100px;
+}
+
+.edit-img{
+    border-radius: 10px;
+}
+
+#status{
+    width: 70px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: green;
+    color: aliceblue;
+    text-align: center;
+}
+
+.bar{
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.attractionbar{
+    background-color: #fa5252;
+}
+.hotelbar{
+    background-color: #228be6;
+}
+.foodbar{
+    background-color: #f25081;
+}
+.shopbar{
+    background-color: #fd7e14;
+}
+.rentbar{
+    background-color: #7950f2;
+}
+
+#bis-intro{
+    text-align: justify;
+}
+
+.locationinput{
+    height: 25px;
+    width: 300px;
+    background-color: rgba(189, 207, 212, 0.582);
+    font-size: 19px;
+}
+
+.latinput{
+    height: 25px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    display: none;
+}
+
+.longinput{
+    height: 25px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    display: none;
+}
+
+.signupboder{
+    margin-top: 100px;
+    padding: 50px;
+}
+
+.btn-success a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.attractiondashview{
+    background-color: #F5F5F5;
+    padding: 50px;
+}
+
+.attractionbox1{
+
+ padding: 20px; 
+ height: 55vh;  
+}
+
+.col-sm-4 a{
+    text-decoration: none;
+    color: dimgray;
+}
+
+.infobox{
+    overflow: hidden;
+    height: 19vh;
+}
+
+.content{
+    margin-top: 60px;
+}
+
+.color{
+    background-color: rgba(189, 207, 212, 0.151);
+}
+
+.tourcontainre{
+    margin-top: 80px;
+}
+
+.tourbox{
+    padding: 12px;
+}
+
+.adminstatus{
+    color: aliceblue;
+    height: 15vh;
+    
+}
+
+.background-img{
+
+    background-color: rgb(20, 19, 19);
+}
+
+.menupic p{
+    font-family: "Josefin Sans", sans-serif;
+    color: #F5F5F5;
+    font-size: 24px;
+}
+
+.menupicture{
+    border-radius: 5px;
+}
+
+.planyortrip{
+    font-family: "Josefin Sans", sans-serif;
+    color: #2aa08c;
+    font-size: 24px;
+}
+
+.planyortripinfo{
+    font-family: "Josefin Sans", sans-serif;
+    color: #8D8D8D;
+    font-size: 18px;
+    
+}
+
+.planyortriptitle{
+    font-family: "Playfair Display", Helvetica, Arial, sans-serif;
+    color: #8D8D8D;
+    font-size: 48px;
+}
+
+.footer1 h5{
+    font-family: "Playfair Display", Helvetica, Arial, sans-serif;
+    color: #af9f10;
+}
+
+.footer1 p{
+    font-family: "Josefin Sans", sans-serif;
+    color: #a19e9e;
+    font-size: 14px;
+    margin-bottom: -3px;
+}
+
+.footer1 span{
+    font-family: "Josefin Sans", sans-serif;
+    color: #af9f10;
+}
+
+.footer1 a{
+    text-decoration: none;
+}
+
+.plansash{
+    margin-top: 70px;
+    text-align: center;
+    padding: 10px;
+}
+
+.plansash h1{
+    font-family: "Playfair Display", Helvetica, Arial, sans-serif;
+    color: #af9f10;
+
+}
+
+#location-info{
+    font-family: "Josefin Sans", sans-serif;
+    color: #141414;
+}
+
+.sec1{
+    font-family: "Josefin Sans", sans-serif;  
+}
+
+.dpanel{
+    background-color: #e7dbdbfc;
+    margin-top: 77px;
+    padding-top: 15px;
+}
+
+.dpanel p{
+    font-family: "Josefin Sans", sans-serif; 
+    font-size: 24px;
+}
+
+.signuoborder{
+    background-color: #ff9a00;
+}
+
+.signupform{
+   
+    margin-top: 200px;
+    width: 60vw;
+    height: 37vh;
+}
+
+.signupselect{
+    margin-top: 30px;
+    border-style: solid;
+    border-color: #F5F5F5;
+    font-family: "Josefin Sans", sans-serif;
+    background-color: #000000a3;
+    font-size: 24px;
+    text-align: center;
+} 
+
+.signupa{
+    color: #F5F5F5;
+    text-decoration: none;
+}
+
+.signupa:hover{
+    color: #b5b4b4;
+}
+
+.tourtitle{
+    margin-top: 80px;
+    font-family: "Josefin Sans", sans-serif;  
+}
+
+.tourpac{
+    background-color: #fffffff7;
+    font-family: "Josefin Sans", sans-serif;
+    color: #000000;
+    padding: 30px;
+    text-align: justify;
+}
+
+.aboutpara{
+    font-family: "Josefin Sans", sans-serif;
+    text-align: justify;
+}
+
+.locplan p{
+    font-size: 16px;
+}
+
+.locplan{
+    padding-bottom: 10px;
+    height: 30vh;
+}
+
+.rone{
+    margin-top: 10px;
+}
+
+.lable2{
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    width: 17px;
+    height: 20px;
+    padding-left: 3px;
+}
